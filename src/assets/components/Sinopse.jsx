@@ -20,8 +20,6 @@ export default function Sinopse() {
                     
                     <p className="pb-2">Enquanto Miguel persegue os vilões que controlam os corredores do poder, ele se vê envolto em um jogo mortal de gato e rato, enfrentando inimigos poderosos e enfrentando dilemas éticos complexos. Ele é confrontado com a dura realidade de que a linha entre justiça e vingança pode ser tênue, e suas ações têm consequências que vão além do que ele poderia imaginar.</p>
                     
-                    <p className="pb-2">"O Doutrinador" é uma história de redenção, sacrifício e luta contra as injustiças que assolam uma nação, enquanto seu protagonista enfrenta os demônios internos e externos que o impulsionam em sua busca por vingança e redenção.</p>
-
                 </div>
 
               
