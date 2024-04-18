@@ -25,7 +25,7 @@ export default function Sinopse() {
               
 
                 <div className='flex '>
-                    <img className="w-128"src={doutrinador} alt="" />
+                    <img className="max-w-128"src={doutrinador} alt="" />
                 </div>
 
             </div> 
