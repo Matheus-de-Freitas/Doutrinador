@@ -2,7 +2,7 @@ import doutrinador from "/doutrinador.jpg"
 
 export default function Sinopse() {
     return(
-        <section className="pb-20">
+        <section className="pb-20 pt-60" >
 
             <div>
                 <h2 className="text-4xl mb-5">Sinopse</h2>

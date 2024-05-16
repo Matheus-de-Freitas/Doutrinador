@@ -2,7 +2,7 @@ import imgCritica from "/img-critica.jpg"
 
 export default function Critica() {
     return(
-        <section>
+        <section id="critica">
             <div>
                 <h2 className="text-4xl mb-5">Críticas Sociais</h2>
             </div>

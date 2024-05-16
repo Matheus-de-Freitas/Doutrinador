@@ -3,7 +3,7 @@ import imgQuadrinhos2 from "/quadrinhos2.jpg"
 
 export default function Quadrinhos() {
     return(
-        <section className="pb-20">
+        <section className="pb-20" id="quadrinhos">
             <div>
                 <h2 className="text-4xl mb-5" >Quadrinhos</h2>
             </div>

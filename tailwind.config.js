@@ -7,8 +7,8 @@ export default {
   theme: {
     extend: {
       spacing: {
-        '128': '50rem',
-      }
+        '128': '40rem',
+      },
     },
   },
   plugins: [],
